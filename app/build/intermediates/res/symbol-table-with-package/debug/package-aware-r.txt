@@ -762,6 +762,8 @@ id btnMinus
 id btnMultiply
 id btnPercent
 id btnPlus
+id btncos
+id btnsin
 id buttonPanel
 id center_vertical
 id chains
@@ -789,6 +791,7 @@ id group_divider
 id groups
 id home
 id homeAsUp
+id horizon
 id icon
 id icon_group
 id ifRoom
@@ -861,6 +864,7 @@ id tag_screen_reader_focusable
 id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
+id tan
 id text
 id text2
 id textSpacerNoButtons
@@ -930,6 +934,7 @@ layout notification_template_custom_big
 layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout scrollbutton
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
